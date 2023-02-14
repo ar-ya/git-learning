@@ -18,7 +18,7 @@ jobs:
           # GitHub token
           github_token: ${{github.token}}
           # Repository name with owner
-          repo: https://github.com/ar-ya/build.git
+          repo: ar-ya/build
           # Artifact name (download all artifacts in not specified)
           name: node-app
           # Download latest artifact
